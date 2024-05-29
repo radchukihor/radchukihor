@@ -6,7 +6,13 @@ I am a passionate computer science student at UoP(University of the People). Dri
 
 ## 🚀 About Me
 
-- 🔭 I'm pursuing my Associate degree in Computer Science at UoP(University of the People).
+- 🔭 I'm pursuing my Associate degree in Computer Science at UoP (University of the People).
+- 🌐 Passionate about cybersecurity, constantly exploring the latest trends and technologies to enhance my skills.
+- 🧠 Driven by curiosity and a love for problem-solving, always eager to tackle new challenges.
+- 💻 Experienced in various programming languages, including Python, JavaScript, and Bash.
+- 🔒 Enthusiastic about ethical hacking and penetration testing, with hands-on experience identifying and mitigating security vulnerabilities.
+- 📚 Lifelong learner, committed to continuous improvement through certifications and hands-on projects.
+- 🌟 Aiming to contribute to a safer digital world by developing innovative security solutions and sharing knowledge with the community.
 
 ## Tech Stack
 <p align="center">
