@@ -17,7 +17,7 @@ I am a passionate computer science student at UoP(University of the People). Dri
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,js,cs,kali" />
+    <img src="https://skillicons.dev/icons?i=py,bash,js,html,cs,kali" />
   </a>
 </p>
 
